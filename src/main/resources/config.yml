@@ -1,0 +1,28 @@
+Mensagens:
+  teletransporte: "&6Você teletransportou com sucesso!"
+
+Warps:
+  nome:
+    delay: 3
+    world: mundo
+    x: 0
+    y: 0
+    z: 0
+    yaw: 0
+    pitch: 0
+  pvp:
+    delay: 3
+    world: mundo
+    x: 0
+    y: 0
+    z: 0
+    yaw: 0
+    pitch: 0
+  loja:
+    delay: 3
+    world: mundo
+    x: 0
+    y: 0
+    z: 0
+    yaw: 0
+    pitch: 0
