@@ -1,0 +1,6 @@
+name: Warp
+version: 1.0
+main: me.warp.WarpMain
+author: zAryon
+commands:
+  warp:
